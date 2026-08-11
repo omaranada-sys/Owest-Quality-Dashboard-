@@ -1,6 +1,4 @@
 window.OWEST_CONFIG = {
-  // Paste your deployed Apps Script Web App URL here.
-  // Example: https://script.google.com/macros/s/AKfycb.../exec
   APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxmNoAhn-fuBHUDzVJD3EYOD17OMGku6OQo5CrD1ncy8bx76SnwFKhCm13EMWv5YcTx/exec",
 
   // Your spreadsheet ID from the Google Sheets URL.
